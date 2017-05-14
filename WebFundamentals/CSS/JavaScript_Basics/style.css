@@ -1,0 +1,47 @@
+body {
+    width: 970px;
+    background-color: #1D355C;
+    color: rgb(195, 214, 235);
+    margin: 20px;
+
+}
+
+header {
+    background-color: #CC323B;
+    padding: 5px 20px;
+    border-radius: 10px;
+    display: block;
+    margin-bottom: 20px;
+}
+
+aside {
+    background-color: #328094;
+    border-radius: 20px;
+    padding: 20px;
+    display: inline-block;
+    width: 20%;
+    vertical-align: top;
+    margin-right: 10px;
+}
+
+section {
+    background-color: #0F1822;
+    border-radius: 20px;
+    display: inline-block;
+    width: 70%;
+    padding: 20px;
+}
+
+footer {
+    background-color: rgb(76, 83, 96);
+    border-radius: 20px;
+    padding: 10px;
+    margin: 20px;
+}
+
+a {
+    color: rgb(96, 206, 227);
+}
+
+.purptext {
+    color: rgb(129, 145, 255);
